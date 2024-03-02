@@ -7,10 +7,10 @@ A simple counter app written with the MVC design pattern.
 ![Static Badge](https://img.shields.io/badge/Design_Pattern-MVC-blue)
 
 
-[demo.webp](https://github.com/MahdiSharifiFar/flutter_crud_php/assets/157637159/55372892-3ebf-49c3-a50e-0cb3f62dee90)
+![webp](https://github.com/MahdiSharifiFar/flutter_crud_php/assets/157637159/55372892-3ebf-49c3-a50e-0cb3f62dee90)
 
 ## Model Dart Code
-![model](https://github.com/MahdiSharifiFar/Flutter_CounterApp_MVC/assets/157637159/9a4c64ae-e73f-472f-86a0-edcf6f31e7f1)
+![model](https://github.com/MahdiSharifiFar/Flutter_CounterApp_MVC/assets/157637159/584647f7-1722-4d54-aa62-39637dd2397c)
 
 ## Controller Dart Code
 ![controller](https://github.com/MahdiSharifiFar/Flutter_CounterApp_MVC/assets/157637159/db0ff87f-b858-48b7-94ef-14e1de02e302)
