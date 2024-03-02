@@ -3,11 +3,20 @@
 # The simplest MVC structure in a Flutter app
 
 A simple counter app written with the MVC design pattern.
+
 ![Static Badge](https://img.shields.io/badge/Design_Pattern-MVC-blue)
 
 
-[screencast-Genymotion-2024-03-02_15.33.32.321.webm](https://github.com/MahdiSharifiFar/flutter_crud_php/assets/157637159/55372892-3ebf-49c3-a50e-0cb3f62dee90)
+(https://github.com/MahdiSharifiFar/flutter_crud_php/assets/157637159/55372892-3ebf-49c3-a50e-0cb3f62dee90)
 
-## Main Dart File
-![main](https://github.com/MahdiSharifiFar/flutter_crud_php/assets/157637159/700af850-2f88-4457-a41c-d54da038f7ee)
+## Model Dart Code
+![model](https://github.com/MahdiSharifiFar/Flutter_CounterApp_MVC/assets/157637159/9a4c64ae-e73f-472f-86a0-edcf6f31e7f1)
 
+## Controller Dart Code
+![controller](https://github.com/MahdiSharifiFar/Flutter_CounterApp_MVC/assets/157637159/db0ff87f-b858-48b7-94ef-14e1de02e302)
+
+## View Dart Code
+![view](https://github.com/MahdiSharifiFar/Flutter_CounterApp_MVC/assets/157637159/9f6ed0a0-2ff0-4d35-90b0-e2acfa893f96)
+
+## main Dart Code
+![main](https://github.com/MahdiSharifiFar/Flutter_CounterApp_MVC/assets/157637159/8f091469-538a-41b1-b76e-d0beab29b1ad)
